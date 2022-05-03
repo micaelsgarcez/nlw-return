@@ -1,0 +1,8 @@
+o
+<header>
+<closebutton <="" header="">
+<div classname="flex flex-col items-center py-10 W-[304px]"> <svg width="41" height="40" viewBox="0 0 41 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M38.5 34C38.5 36.209 36.709 38 34.5 38H6.5C4.291 38 2.5 36.209 2.5 34V6C2.5 3.791 4.291
+<path d=" m31.78="" 8.36202c30.624="" 7.61102="" 29.076="" 7.94002="" 28.322="" 9.09802l17.436="" 25.877l12.407="" 21.2270="" <="" svg="">
+</path></svg><span classname="text-xl mt-2">Agradecemos o feedback!</span>
+<button classname="py-2 px-6 mt-6 Obg-zinc-800 rounded-md border-transparent" ,="" quero="" enviar="" outro="" <="" button=""> </button></div></closebutton></header>
